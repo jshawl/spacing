@@ -1,0 +1,29 @@
+{
+  "name": "spacing.css",
+  "version": "0.0.1",
+  "homepage": "http://mrmrs.github.io/spacing",
+  "description": "",
+  "keywords": [
+    "oocss",
+    "css",
+    "rwd",
+    "responsive design",
+    "design"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mrmrs/spacing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrmrs/spacing/issues"
+  },
+  "author": {
+    "name": "mrmrs",
+    "email": "hi@mrmrs.cc",
+    "url": "http://mrmrs.cc"
+  },
+  "contributors": [
+    { "name": "adam morse", "email": "hi@mrmrs.cc" }
+  ],
+  "license": "MIT"
+}
